@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juliashoobe
-- 👀 I’m interested in bionformatics, data science, and genomics
-- 🌱 I’m currently studying Molecular, Cellular, and Developmental Biology at the University of Colorado Boulder
-- 💞️ I’m looking for career opportunities following my graduation in December of 2022
-- 📫 How to reach me: jush3476@colorado.edu
+- 👀 I’m interested in bionformatics and genomics
+- 🌱 I got my bachelors in Molecular, Cellular, and Developmental Biology at the University of Colorado Boulder
+- 🎓 I'm currently pursing my Master of Biostatistics at Duke University
+- 📫 How to reach me: js1206@duke.edu
 
 <!---
 juliashoobe/juliashoobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
